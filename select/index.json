@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "フライングゲット",
+  "base_artist": "AKB48",
+  "createdAt": "2025-12-30T15:22:22.425840Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フライングゲット",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/01_フライングゲット_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フライングゲット",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/02_フライングゲット_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "フライングゲット",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/03_フライングゲット_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "フライングゲット - Flying Get",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/04_フライングゲット_-_Flying_Get_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "フライングゲット",
+      "artist": "Acid Black Cherry",
+      "has_synced": false,
+      "path": "select/05_フライングゲット_Acid_Black_Cherry.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "フライングゲット",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/06_フライングゲット_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "フライングゲット off vocal ver.",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/07_フライングゲット_off_vocal_ver._AKB48.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "フライングゲット",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/08_フライングゲット_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "フライングゲット (English Ver.)",
+      "artist": "GILLE",
+      "has_synced": true,
+      "path": "select/09_フライングゲット_(English_Ver.)_GILLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フライングゲット",
+      "artist": "AKB48",
+      "has_synced": false,
+      "path": "select/pl_01_フライングゲット_AKB48.txt"
+    }
+  ]
+}
